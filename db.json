@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Tayra","caterory":"Teal"},
+{"id":2,"name":"Wolf, timber","caterory":"Fuscia"},
+{"id":3,"name":"Lizard, desert spiny","caterory":"Indigo"},
+{"id":4,"name":"Southern ground hornbill","caterory":"Puce"},
+{"id":5,"name":"Eastern boa constrictor","caterory":"Mauv"},
+{"id":6,"name":"Seal, northern elephant","caterory":"Khaki"},
+{"id":7,"name":"White-winged dove","caterory":"Maroon"},
+{"id":8,"name":"Racer snake","caterory":"Blue"},
+{"id":9,"name":"Great horned owl","caterory":"Maroon"},
+{"id":10,"name":"Grey phalarope","caterory":"Violet"},
+{"id":11,"name":"Woodrat (unidentified)","caterory":"Green"},
+{"id":12,"name":"Waterbuck, defassa","caterory":"Teal"},
+{"id":13,"name":"Paddy heron (unidentified)","caterory":"Aquamarine"},
+{"id":14,"name":"African lynx","caterory":"Goldenrod"},
+{"id":15,"name":"Black curlew","caterory":"Green"},
+{"id":16,"name":"American crow","caterory":"Puce"},
+{"id":17,"name":"Paddy heron (unidentified)","caterory":"Puce"},
+{"id":18,"name":"Cobra, egyptian","caterory":"Turquoise"},
+{"id":19,"name":"White-tailed deer","caterory":"Maroon"},
+{"id":20,"name":"Civet, common palm","caterory":"Teal"}
+]
+}
